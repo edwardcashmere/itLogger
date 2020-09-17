@@ -1,0 +1,73 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Fixed the Website KLA after it went down ...back up now",
+      "attention": true,
+      "tech": "Edwin Omondi",
+      "date": "2020-07-26T12:34:26.861Z"
+    },
+    {
+      "id": 3,
+      "message": "Finished setting up laptops ",
+      "attention": false,
+      "tech": "Amos Cheruiyot",
+      "date": "2020-07-26T09:11:26.296Z"
+    },
+    {
+      "id": 4,
+      "message": "Fixed the Website",
+      "attention": false,
+      "tech": "Amos Cheruiyot",
+      "date": "2020-07-26T09:12:37.315Z"
+    },
+    {
+      "message": "watch NetFlix on screen 006",
+      "attention": true,
+      "tech": "Edwin Omondi",
+      "date": "2020-07-26T12:29:50.073Z",
+      "id": 5
+    },
+    {
+      "message": "Remount screen 004 in Mombasa",
+      "attention": false,
+      "tech": "Bryson Karanja",
+      "date": "2020-07-26T12:30:29.484Z",
+      "id": 6
+    },
+    {
+      "message": "Fixed the Website",
+      "attention": true,
+      "tech": "Amos  Cheruiyot",
+      "date": "2020-09-17T05:14:57.959Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Edwin ",
+      "lastName": "Omondi"
+    },
+    {
+      "id": 2,
+      "firstName": "Amos ",
+      "lastName": "Cheruiyot"
+    },
+    {
+      "id": 3,
+      "firstName": "Bryson",
+      "lastName": "Karanja"
+    },
+    {
+      "firstName": "Edwin",
+      "lastName": "bryant",
+      "id": 4
+    },
+    {
+      "firstName": "stanslaus",
+      "lastName": "wanderi",
+      "id": 5
+    }
+  ]
+}
